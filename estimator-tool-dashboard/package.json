@@ -20,6 +20,7 @@
     "tailwind:build": "npx tailwindcss -i src/index.css -o src/tailwind.generated.css --minify",
     "tailwind:watch": "npx tailwindcss -i src/index.css -o src/tailwind.generated.css --watch"
   },
+  "proxy": "http://localhost:4000",
   "eslintConfig": {
     "extends": [
       "react-app",
