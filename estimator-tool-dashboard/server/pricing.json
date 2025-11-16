@@ -1,0 +1,9 @@
+{
+  "entries": [
+    { "key": "speed breaker", "unitPrice": 5000, "source": "CPWD SOR 2025" },
+    { "key": "speed hump", "unitPrice": 4500, "source": "CPWD SOR 2025" },
+    { "key": "road signage", "unitPrice": 3000, "source": "GeM portal 2025" },
+    { "key": "road marking", "unitPrice": 150, "source": "GeM portal 2025" },
+    { "key": "pedestrian crossing", "unitPrice": 7000, "source": "CPWD SOR 2025" }
+  ]
+}
